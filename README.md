@@ -1,4 +1,4 @@
-omain: Number Guessing Game (Java)
+Domain: Number Guessing Game (Java)
 
 Project Title
 Number Guessing Game using Java (GUI Based)-Task 2
