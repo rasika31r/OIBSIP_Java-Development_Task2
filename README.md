@@ -1,8 +1,7 @@
-Number Guessing Game (Java)
+omain: Number Guessing Game (Java)
 
 Project Title
-
-Number Guessing Game using Java (GUI Based)
+Number Guessing Game using Java (GUI Based)-Task 2
 
 # Objective
 
@@ -15,7 +14,6 @@ The system generates a random number, and the user has a fixed number of attempt
 After each guess, the application provides feedback such as “Too High”, “Too Low”, or “Correct Guess”.
 The game may include multiple rounds and score tracking.
 
-
 # Features
 
 *  Random number generation
@@ -27,7 +25,6 @@ The game may include multiple rounds and score tracking.
 *  Score calculation
 *  Interactive GUI using Java Swing
   
-
 # Tools & Technologies Used
 
 * Programming Language: Java
@@ -57,6 +54,3 @@ The game may include multiple rounds and score tracking.
 [Click here to watch]
 https://www.linkedin.com/posts/rasika-birajdar-2833aa313_oasisinfobyte-task-numberguessinggame-activity-7413579089787248640-duEI?utm_source=share&utm_medium=member_android&rcm=ACoAAE-dQwMBNfNg8dImfmegOzwSVnDfngd3nEo
 
-# LinkedIn Profile
-
-https://www.linkedin.com/in/rasika-birajdar-2833aa313
